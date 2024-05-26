@@ -14,6 +14,7 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [MidJourney](https://www.midjourney.com/app/)
+- [SoundCloud](https://soundcloud.com/)
 
 ## ✨ Como desenvolvido?
 
