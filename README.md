@@ -16,6 +16,13 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 - [MidJourney](https://www.midjourney.com/app/)
 - [SoundCloud](https://soundcloud.com/)
 
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Roterista: Nome do podcast Você é um roterista de podcast e vamos criar um podcast de tecnologia focado em front-end em python e eu gostaria de uma ajuda sua para criar cinco sugestões de nomes criativos para um podcast de frontend feito por nerd e que tenha algum trocadilho nerd no nome, o podcast vai falar sobre dicas e novidades de front-end em python e o que está acontecendo no mercado.                                                                                                                                                                                                   |
+| conteúdo | {regras} Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo, No maximo 5 linhas por blocos de explicação Me explique de maneira informal, como seu eu fosse uma criança de 10 anos Os blocos que serão criados estão abaixo: - Entre Flask e Django qual o frameworks mais fácil de trabalhar com Python? - cite exemplos com códigos de python utilizados os frameworks em questão - Faça um call to action interessante para as minhas redes sociais -  Coloque 3 hastag que faça sentido
+
 ## ✨ Como desenvolvido?
 
 - Roteiro feito e gerado via chatgpt
