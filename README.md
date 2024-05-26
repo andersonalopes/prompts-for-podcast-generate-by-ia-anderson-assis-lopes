@@ -39,8 +39,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://www.linkedin.com/in/anderson-lopes-23686929/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
-    &nbsp;|&nbsp;</p>
+   </p>
 </p>
 <br/><br/>
 <p>
