@@ -3,6 +3,11 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
+<div align="center">
+    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+</div>
+
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Capcut](https://www.capcut.com/pt-br/)
