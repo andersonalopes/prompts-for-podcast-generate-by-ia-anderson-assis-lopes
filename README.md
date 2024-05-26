@@ -21,6 +21,7 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 - Midjourney para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+- Audio enviado para o SoundCloud
 
 ## 🛠️ Instruções de execução
 
