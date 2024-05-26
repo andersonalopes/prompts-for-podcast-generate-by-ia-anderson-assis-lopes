@@ -4,7 +4,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast-django-python-dio.MP3" controls title="Podcast editado"></audio>
 </div>
 
 
